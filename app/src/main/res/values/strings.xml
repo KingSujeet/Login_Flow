@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Flow</string>
+    <string name="welcome_back">Welcome Back!!</string>
+    <string name="sign_in_with_google_account">Sign In With Google Account</string>
+    <string name="sign_in">Sign In....</string>
+    <string name="sign_in_or_create_an_account">Sign In or Create an account</string>
+    <string name="with_google_account">With Google Account..</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="phone_no">Phone no</string>
+    <string name="verify_your_number">Verify Your Number!!</string>
+    <string name="please_enter_your_mobile_number">Please Enter Your Mobile Number</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+    <string name="please_enter_your_otp">Please Enter Your Otp!!</string>
+</resources>

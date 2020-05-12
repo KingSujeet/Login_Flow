@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768017287262",
+    "firebase_url": "https://login-flow-ff475.firebaseio.com",
+    "project_id": "login-flow-ff475",
+    "storage_bucket": "login-flow-ff475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768017287262:android:73fb22cce592b88ddccccf",
+        "android_client_info": {
+          "package_name": "com.fikkarnot.loginflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768017287262-j0bt43fn0mkmsog5aco2a9mmjrrtmmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUzxoZRR3WglC1skzo5lYbm86na_8I04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768017287262-j0bt43fn0mkmsog5aco2a9mmjrrtmmoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
