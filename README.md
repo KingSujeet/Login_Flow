@@ -4,4 +4,4 @@ I used Firebase As a backend.
 
 ScreenShots:
 
-![](https://github.com/KingSujeet/Login_Flow/blob/master/WhatsApp%20Image%202020-07-14%20at%201.38.25%20PM.jpeg)
+![](https://github.com/KingSujeet/Login_Flow/blob/master/WhatsApp%20Image%202020-07-14%20at%201.38.25%20PM.jpeg){:height="100px" width="200px"}
