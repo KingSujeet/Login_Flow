@@ -6,4 +6,4 @@ ScreenShots:
 
 ![](https://github.com/KingSujeet/Login_Flow/blob/master/WhatsApp%20Image%202020-07-14%20at%201.38.25%20PM.jpeg)
 
-<img src="https://github.com/KingSujeet/Login_Flow/blob/master/WhatsApp%20Image%202020-07-14%20at%201.38.25%20PM%20(1).jpeg" width="200">
+<img src="https://github.com/KingSujeet/Login_Flow/blob/master/WhatsApp%20Image%202020-07-14%20at%201.38.25%20PM%20(1).jpeg" width="300">
